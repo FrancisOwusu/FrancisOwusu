@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisOwusu&layout=compact">
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisOwusu&theme=highcontrast&show_icons=true&count_private=true&layout=compact">
 </source>
   
   <source
