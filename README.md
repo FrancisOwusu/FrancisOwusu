@@ -16,6 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancisOwusu&layout=compact">
+</source>
+  
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=FrancisOwusu&theme=highcontrast&show_icons=true&count_private=true"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FrancisOwusu&show_icons=true" />
+</picture>
+<picture>
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </source>
   <source
