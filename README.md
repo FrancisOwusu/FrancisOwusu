@@ -1,4 +1,7 @@
-### Hi there,👋
+### Hi there, Francis Osei Owusu👋
+
+## Software Engineer
+
 🌱 I’m currently learning dart and flutter
 <!--
 **FrancisOwusu/FrancisOwusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
