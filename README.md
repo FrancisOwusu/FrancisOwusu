@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there,👋
 🌱 I’m currently learning dart and flutter
 <!--
 **FrancisOwusu/FrancisOwusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,3 +34,5 @@ Here are some ideas to get you started:
   />
   <img src="https://github-readme-stats.vercel.app/api?username=FrancisOwusu&show_icons=true" />
 </picture>
+##Languages ​​and Tools
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
