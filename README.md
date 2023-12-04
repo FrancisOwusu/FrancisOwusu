@@ -21,8 +21,7 @@ Here are some ideas to get you started:
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=FrancisOwusu&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats.vercel.app/api?username=FrancisOwusu&theme=highcontrast&show_icons=true&count_private=true"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=FrancisOwusu&show_icons=true" />
 </picture>
