@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 
 ### Languages ​​and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,docker,git,linux,dart,flutter,java,api,mysql,postgres,python&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,docker,git,linux,dart,flutter,java,mysql,postgres,python&theme=light)](https://skillicons.dev)
