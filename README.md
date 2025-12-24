@@ -2,7 +2,7 @@
 
 ## Software Engineer
 
-🌱 I’m currently working on support system using react and node js
+<!--🌱 I’m currently working on support system using react and node js-->
 <!--
 **FrancisOwusu/FrancisOwusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
